@@ -1,0 +1,8 @@
+{
+  "name": "petes dependencies",
+  "version": "0.0.1",
+  "description": "",
+  "devDependencies": {
+    "webidl-conversions: "4.0.2"
+  }
+}
